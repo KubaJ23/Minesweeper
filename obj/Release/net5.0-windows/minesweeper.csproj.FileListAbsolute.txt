@@ -1,0 +1,17 @@
+H:\Programming\minesweeper\bin\Release\net5.0-windows\minesweeper.exe
+H:\Programming\minesweeper\bin\Release\net5.0-windows\minesweeper.deps.json
+H:\Programming\minesweeper\bin\Release\net5.0-windows\minesweeper.runtimeconfig.json
+H:\Programming\minesweeper\bin\Release\net5.0-windows\minesweeper.runtimeconfig.dev.json
+H:\Programming\minesweeper\bin\Release\net5.0-windows\minesweeper.dll
+H:\Programming\minesweeper\bin\Release\net5.0-windows\ref\minesweeper.dll
+H:\Programming\minesweeper\bin\Release\net5.0-windows\minesweeper.pdb
+H:\Programming\minesweeper\obj\Release\net5.0-windows\minesweeper.Slot.resources
+H:\Programming\minesweeper\obj\Release\net5.0-windows\minesweeper.csproj.GenerateResource.cache
+H:\Programming\minesweeper\obj\Release\net5.0-windows\minesweeper.GeneratedMSBuildEditorConfig.editorconfig
+H:\Programming\minesweeper\obj\Release\net5.0-windows\minesweeper.AssemblyInfoInputs.cache
+H:\Programming\minesweeper\obj\Release\net5.0-windows\minesweeper.AssemblyInfo.cs
+H:\Programming\minesweeper\obj\Release\net5.0-windows\minesweeper.csproj.CoreCompileInputs.cache
+H:\Programming\minesweeper\obj\Release\net5.0-windows\minesweeper.dll
+H:\Programming\minesweeper\obj\Release\net5.0-windows\ref\minesweeper.dll
+H:\Programming\minesweeper\obj\Release\net5.0-windows\minesweeper.pdb
+H:\Programming\minesweeper\obj\Release\net5.0-windows\minesweeper.genruntimeconfig.cache
